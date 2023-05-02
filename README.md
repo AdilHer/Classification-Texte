@@ -1,4 +1,28 @@
 # Classification-Texte
+
+
+La classification de texte est une tâche importante en apprentissage automatique, qui consiste à classer automatiquement les documents en différentes catégories en fonction de leur contenu textuel. Un exemple de classification de texte est la classification des articles de presse en différentes catégories telles que sport, finance, technologie, etc.
+
+BBC Sport est un exemple courant de classification de texte en catégories de sport. Pour résoudre ce problème, vous pouvez utiliser des techniques d'apprentissage automatique telles que la classification de texte basée sur des modèles de langue ou des modèles d'apprentissage profond.
+
+Bibliothèques utilisées:
+
+scikit-learn
+
+nltk
+
+pandas
+
+seaborn
+
+numpy
+
+wordcloud
+
+matplotlib
+
+
+
 Sport Textes :
 Consists of documents from the BBC Sport website corresponding to sports news articles in five topical areas from 2004-2005.
 Documents: 737, Terms: 4613
